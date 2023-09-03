@@ -1,11 +1,28 @@
-# Replugged plugin template
+### GuildTooltip
 
-See the [plugin development guide](https://guide.replugged.dev/docs/plugins/getting-started) for
-more information on using this template.
+Adds more info to guild tootip.
 
-# License
+Direct Download Link: [dev.tharki.GuildTooltip.asar](https://github.com/Tharki-God/GuildTooltip/releases/latest/download/dev.tharki.GuildTooltip.asar)
 
-The [plugin template](https://github.com/replugged-org/plugin-template) is licensed under the
-[MIT](https://opensource.org/license/mit/) license. However, addons using this template are not
-necessarily licensed under MIT. Developers are encouraged to add a license file to their repository,
-but if none exists, the repository should be considered as unlicensed.
+Install Link:
+
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=Tharki-God/GuildTooltip&source=github)
+
+![GuildTooltipSettings](https://tharki-god.github.io/files-random-host/bdpluginsassets/GuildTooltip.png)
+
+> ## Disclaimer
+>
+> This Plugin isn't offically supported by replugged.
+>
+>**DO NOT ASK IN REPLUGGED SERVER FOR SUPPORT RELATED TO THIS PLUGIN.**
+>
+> For issues related to plugin either DM the dev or ask in support server listed below.
+>
+>
+> [![Support Server](https://discordapp.com/api/guilds/919649417005506600/widget.png?style=banner3)](https://discord.gg/SgKSKyh9gY)
+
+
+
+
+
+> For Contributing: [Make a pr thats all.]

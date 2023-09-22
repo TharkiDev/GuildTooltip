@@ -1,4 +1,4 @@
-### GuildTooltip
+### GuildTooltip (Abandoned)
 
 Adds more info to guild tootip.
 

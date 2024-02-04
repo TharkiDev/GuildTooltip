@@ -1,12 +1,12 @@
-### GuildTooltip (Abandoned)
+### GuildTooltip ([Abandoned in favor of Member Count](https://github.com/asportnoy/member-count))
 
 Adds more info to guild tootip.
 
-Direct Download Link: [dev.tharki.GuildTooltip.asar](https://github.com/Tharki-God/GuildTooltip/releases/latest/download/dev.tharki.GuildTooltip.asar)
+Direct Download Link: [dev.tharki.GuildTooltip.asar](https://github.com/TharkiDev/GuildTooltip/releases/latest/download/dev.tharki.GuildTooltip.asar)
 
 Install Link:
 
-[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=Tharki-God/GuildTooltip&source=github)
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=TharkiDev/GuildTooltip&source=github)
 
 ![GuildTooltip](https://i.imgur.com/HsslrdI.png)
 

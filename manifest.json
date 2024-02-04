@@ -3,16 +3,16 @@
   "name": "GuildTooltip",
   "description": "Adds more info to guild tootip.",
   "image": "https://i.imgur.com/HsslrdI.png",
-  "source": "https://github.com/Tharki-God/GuildTooltip",
+  "source": "https://github.com/TharkiDev/GuildTooltip",
   "author": {
     "name": "Ahlawat",
-    "discordID": "1025214794766221384",
-    "github": "Tharki-God"
+    "discordID": "1121961711080050780",
+    "github": "TharkiDev"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "Tharki-God/GuildTooltip"
+    "id": "TharkiDev/GuildTooltip"
   },
   "license": "MIT",
   "type": "replugged-plugin",
